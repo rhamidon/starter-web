@@ -15,4 +15,9 @@ provide simple examples for Git training demos.
 
 ## Deployment
 
+This is a simple webproject, deployment
+can be done on any web server and local file system.
+
 ## How to Contribute
+
+Modified: 05/04/2018
