@@ -20,4 +20,8 @@ can be done on any web server and local file system.
 
 ## How to Contribute
 
+### Copyright
+
+2018 GitTraining
+
 Modified: 05/04/2018
