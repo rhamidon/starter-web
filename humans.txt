@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+  	Riyaz    Student    riyaz@github.com 
 
 # THANKS
 
