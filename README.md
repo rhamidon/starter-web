@@ -20,6 +20,7 @@ can be done on any web server and local file system.
 
 ## How to Contribute
 
+Please fork this repository and then issue Pull request for review.
 ### Copyright
 
 2018 GitTraining
