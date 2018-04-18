@@ -8,8 +8,7 @@
 # THANKS
 
 	All my students!
-	Doing this in MASTER, this line is the latest.
-
+	I'm doing this in TROUBLE branch
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
