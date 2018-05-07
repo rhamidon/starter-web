@@ -25,6 +25,6 @@ Please fork this repository and then issue Pull request for review.
 
 ### Copyright
 
-2018 GitTraining
+2018 GitTraining. All rights reserved.
 
 Modified: 05/04/2018
